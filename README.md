@@ -1,13 +1,10 @@
 # grc-master-portfolio
 # Welcome to SECREK's GRC Portfolio! 👋
 ### Governance, Risk, and Compliance (GRC) / Cybersecurity Analyst
-Who: CISSP-certified CyberSecurity professional with 15+ years in information technology (includes 7 years of hands-on vulnerability management after a background in database administration and middleware engineering).
-What: Seeking a mid-level GRC role where I can leverage engineering depth and recent upskilling to drive program maturity and client confidence.
-How: Designed and built this verifiable publicly accessible GRC portfolio demonstrating complete ATO package delivery, hands-on multi-cloud security, IaaS/PaaS/SaaS responsibility mapping, FedRAMP Moderate readiness,
-NIST SP 800-137 continuous monitoring, and core management competencies.
+CISSP‑certified vulnerability engineer who has systematically upskilled into GRC leadership by completing a 150‑day portfolio that includes a complete ATO package (SSP, SAR, POA&M, FIPS 199, PIA), hands‑on cloud security (AWS/Azure, FedRAMP Moderate), a NIST SP 800‑137 continuous monitoring dashboard, and management deliverables such as a budget request, vendor SLA, and project charter. My portfolio is publicly available and each artifact contains human‑readable approval signatures to demonstrate accountability.
 
 
-- 🔭 **Who**: CISSP‑certified vulnerability engineer who has systematically upskilled into GRC leadership by completing a 150‑day portfolio that includes a complete ATO package (SSP, SAR, POA&M, FIPS 199, PIA), hands‑on cloud security (AWS/Azure, FedRAMP Moderate), a NIST SP 800‑137 continuous monitoring dashboard, and management deliverables such as a budget request, vendor SLA, and project charter. My portfolio is publicly available and each artifact contains human‑readable approval signatures to demonstrate accountability. I am looking for a mid‑level GRC role where my technical depth and proven ability to produce compliance documentation can immediately add value.
+- 🔭 **Who**:  I am looking for a mid‑level GRC role where my technical depth and proven ability to produce compliance documentation can immediately add value.
 - 💼 **Looking For**: GRC Analyst, Compliance Specialist, or Information Security Auditor roles.
 - ⚡ **Fun Fact**: I enjoy translating dense legal regulatory text into actionable security controls.
 
