@@ -14,15 +14,14 @@ I am a CISSP‑certified vulnerability management engineer who has systematicall
 ## 🛠️ Frameworks & Technical Skills
 
 * **Compliance Frameworks**: NIST CSF, 800-53 Rev 5, RMF, ISCM, ISO/IEC 27001, SOC 2 (Type I & II), HIPAA, GDPR, PCI-DSS, FedRAMP, HITRUST, CMMC, SOX
-* **Risk Management & ATO**: Risk Identification, Qualitative & Quantitative Analysis, Risk Treatment Plans, Risk Register, FIPS 199, PIA, SSP, SAR, POA&M, Continuous Monitoring, 
-Remediation Tracking
-* **Cloud Security:**: JAWS, Azure, IaaS/PaaS/SaaS Shared Responsibility Model, Cloud Risk Assessment, CSA CCM, FedRAMP Cloud Controls
+* **Risk Management & ATO**: Risk Identification, Qualitative & Quantitative Analysis, Risk Treatment Plans, Risk Register, FIPS 199, PIA, SSP, SAR, POA&M, Continuous Monitoring, Remediation Tracking
+* **Cloud Security**: JAWS, Azure, IaaS/PaaS/SaaS Shared Responsibility Model, Cloud Risk Assessment, CSA CCM, FedRAMP Cloud Controls
 * **Policy & Audit**: Policy writing, Exception memos, Evidence packages, Test plans, Findings documentation
 * **Vulnerability Management**: Scanning (Nessus Tenable, Rapid7 InsightVM & Qualys), CVE Risk Scoring & Known Exploits tracking (CVSS, CVE, CWE, CISA’s KEV, VulnCheck’s KEV, NVD/VulnDB), Remediation SLAs, Asset Discovery & Management (CMDB), Patch Management, Exception Handling, Vulnerability Management policy, Metrics Preparation (PostgreSQL, SQL, Splunk SPL, MS Excel (Pivot tables, VLOOKUP), Python, CLI (Bash, API), NSLOOKUP,
 CURL, AWK, SED), Security Architecture & Network basics
 * **Management & Leadership**: Budget planning, Vendor Risk, Project Charter/WBS/Gantt, Stakeholder Comms,Mentoring
 * **Tools & Software**: Jira, ServiceNow
-* **Communication:**: SOC 2, ISO 27001 (Control A.9), SOX User Access Reviews
+* **Communication**: SOC 2, ISO 27001 (Control A.9), SOX User Access Reviews
 
 ---
 
