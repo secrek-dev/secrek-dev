@@ -5,9 +5,9 @@ I am a CISSP‑certified vulnerability management engineer who has systematicall
 
 
 
-- 🔭 **Available For?** GRC Analyst, Compliance Specialist, or Information Security Auditor roles where my technical depth and proven ability to produce compliance documentation can immediately add value.
-- 💼 **Capabilities?**  I bridge the gap between technical vulnerabilities and compliance frameworks (SOC 2, ISO 27001, NIST CSF, HIPAA, FedRAMP). 
-- ⚡ **Note**: My portfolio is publicly available and each artifact contains human‑readable approval signatures to demonstrate accountability.
+- 🔭 **Available For?** GRC Analyst, Compliance Specialist, or Information Security Auditor roles
+- 💼 **Capabilities?**  I bridge the gap between technical vulnerabilities and compliance frameworks (SOC 2, ISO 27001, NIST CSF, HIPAA, FedRAMP). My technical depth and proven ability to produce compliance documentation can immediately add value.
+- ⚡ **Note**: Each artifact in this publicly accessible portfolio contains human‑readable approval signatures to demonstrate accountability.
 
 ---
 
