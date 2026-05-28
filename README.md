@@ -1,6 +1,6 @@
 # Welcome to SECREK's GRC Portfolio! 👋
 ### Governance, Risk, and Compliance (GRC) / Cybersecurity Analyst
-I am a Vulnerability Management Engineer with roots in database and middleware engineering who is systematically transitioning into GRC leadership, as evidenced by my CISSP and a self-developed portfolio that includes a full ATO package, FedRAMP-aligned cloud deliverables (AWS/Azure), a NIST SP 800-137 continuous monitoring dashboard, and management outputs such as a budget request, vendor SLA, and project charter.
+I am a Vulnerability Management Engineer with roots in database and middleware engineering who is systematically transitioning into GRC leadership, as evidenced by my ISC² CISSP certification and this self-developed portfolio that includes a full ATO package, FedRAMP-aligned cloud deliverables (AWS/Azure), a NIST SP 800-137 continuous monitoring dashboard, and management outputs such as a budget request, vendor SLA, and project charter.
 
 
 
