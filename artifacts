@@ -1,0 +1,102 @@
+```text
+secrek-dev/
+├── README.md
+├── VERIFICATION.md                     # Human‑readable verification (open PDFs for mock signatures)
+├── artifacts/
+│   ├── 01-governance-risk-management/  # CGRC Domain 1 / RMF Prepare
+│   │   ├── Nexa_GRC_Charter_v1.0.pdf
+│   │   ├── Nexa_ERM_Policy_v1.0.pdf
+│   │   ├── Risk_Appetite_Statement_v1.0.pdf
+│   │   ├── NexaPay_RACI_Chart_v1.0.pdf
+│   │   ├── Compliance_Obligations_Register_v1.0.xlsx
+│   │   ├── SDLC_GRC_Integration_Procedure_v1.0.pdf
+│   │   ├── Information_Lifecycle_Policy_v1.0.pdf
+│   │   ├── NexaPay_Inherent_Risk_Assessment_v1.0.pdf   # NIST 800‑30 risk assessment (includes risk register)
+│   │   ├── Risk_Analysis_Matrix_v1.0.xlsx
+│   │   └── Phase1_Completion_Memo_v1.0.pdf
+│   │
+│   ├── 02-categorization-scope/       # CGRC Domain 2 / RMF Categorize
+│   │   ├── System_Description_NexaPay.md
+│   │   ├── FIPS_199_Worksheet_v1.0.xlsx
+│   │   ├── NexaPay_FIPS_199_Report_v1.0.pdf
+│   │   ├── NexaPay_PIA_v1.0.pdf
+│   │   ├── NexaPay_Architecture_Diagram.png
+│   │   ├── Authorization_Boundary_Description_v1.0.pdf
+│   │   ├── Information_Type_Register_v1.0.xlsx
+│   │   └── FedRAMP_RAR_Gap_Analysis_v1.0.xlsx
+│   │
+│   ├── 03-control-selection/          # CGRC Domain 3 / RMF Select
+│   │   ├── NIST_800_53_Rev5_Moderate_Baseline_List.xlsx
+│   │   ├── NexaPay_Tailored_Control_List_v1.0.xlsx
+│   │   ├── NexaPay_FedRAMP_Overlay_Controls_v1.0.xlsx
+│   │   ├── Common_Control_Inheritance_Matrix_v1.0.xlsx
+│   │   ├── Compensating_Control_Justification_v1.0.pdf
+│   │   ├── Control_Selection_Approval_Memo_v1.0.pdf
+│   │   ├── CSA_CCM_to_NIST_Mapping_v1.0.xlsx
+│   │   └── Phase3_Completion_Memo_v1.0.pdf
+│   │
+│   ├── 04-control-implementation/     # CGRC Domain 4 / RMF Implement
+│   │   ├── SSP_System_Overview_v1.0.docx
+│   │   ├── SSP_Controls_AC_AU_v1.0.docx
+│   │   ├── SSP_Controls_CM_IA_IP_MP_v1.0.docx
+│   │   ├── SSP_Controls_RA_SC_SI_SA_v1.0.docx
+│   │   ├── SSP_Controls_Remaining_Families_v1.0.docx
+│   │   ├── SSP_Appendix_C_Policies_v1.0.pdf
+│   │   ├── SSP_Appendix_I_Incident_Response_v1.0.pdf
+│   │   ├── NexaPay_SSP_FINAL.pdf           # Complete System Security Plan (NIST 800‑53 Rev 5)
+│   │   └── Phase4_Completion_Memo_v1.0.pdf
+│   │
+│   ├── 05-assessment-audit/           # CGRC Domain 5 / RMF Assess
+│   │   ├── NexaPay_SAP_v1.0.docx
+│   │   ├── NexaPay_SAP_Test_Cases_v1.0.xlsx
+│   │   ├── Control_Assessment_Results_Matrix_v1.0.xlsx
+│   │   ├── NexaPay_SAR_v1.0.docx
+│   │   ├── NexaPay_SAR_FINAL.pdf           # Security Assessment Report (3 findings)
+│   │   ├── Evidence_Package_Controls.zip
+│   │   └── Phase5_Completion_Memo_v1.0.pdf
+│   │
+│   ├── 06-authorization-ato/          # CGRC Domain 6 / RMF Authorize
+│   │   ├── NexaPay_POA&M_v1.0.xlsx
+│   │   ├── NexaPay_POA&M_v2.0_Milestones.xlsx
+│   │   ├── NexaPay_Risk_Position_Report_v1.0.pdf
+│   │   ├── NexaPay_ATO_Decision_Memo_v1.0.pdf
+│   │   ├── NexaPay_ATO_Package_FULL.zip    # All authorization artifacts bundled
+│   │   └── Phase6_Completion_Memo_v1.0.pdf
+│   │
+│   ├── 07-continuous-monitoring/      # CGRC Domain 7 / RMF Monitor
+│   │   ├── ISCM_Program_Plan_v1.0.pdf
+│   │   ├── NexaPay_ConMon_Dashboard_v1.0.xlsx
+│   │   ├── Monthly_ConMon_Report_Template_v1.0.docx
+│   │   ├── Vulnerability_Management_Policy_v1.0.pdf
+│   │   ├── Vulnerability_SLA_Tracker_v1.0.xlsx
+│   │   ├── Incident_Metrics_Dashboard_v1.0.xlsx
+│   │   ├── Tabletop_Exercise_Plan_v1.0.pdf
+│   │   ├── Post_Incident_Review_Report_v1.0.pdf
+│   │   └── Phase7_Completion_Memo_v1.0.pdf
+│   │
+│   ├── 08-cloud-fedramp/              # Consolidated cloud & FedRAMP artifacts
+│   │   ├── IaaS_PaaS_SaaS_Responsibility_Matrix_v1.0.csv
+│   │   ├── NexaPay_Cloud_Architecture_Diagram_v1.0.png
+│   │   ├── AWS_Azure_HandsOn_Screenshots_v1.0.pdf
+│   │   ├── FedRAMP_Process_Summary_v1.0.pdf
+│   │   ├── FedRAMP_SSP_Appendix_Cloud_v1.0.pdf
+│   │   ├── Cloud_Governance_Policy_v1.0.pdf
+│   │   └── Cloud_Evidence_Mapping_v1.0.xlsx
+│   │
+│   └── 09-management/                 # Management & leadership competencies
+│       ├── FY2026_Security_Budget_Request_v1.0.pdf
+│       ├── Vendor_SLA_Template_v1.0.docx
+│       ├── FedRAMP_ATO_Project_Charter_v1.0.pdf
+│       ├── FedRAMP_ATO_WBS_v1.0.xlsx
+│       ├── Project_Gantt_Chart_v1.0.xlsx
+│       ├── GRC_Practice_Growth_Plan_v1.0.pdf
+│       ├── Junior_Analyst_Onboarding_Plan_v1.0.docx
+│       ├── Peer_Review_Quality_Checklist_v1.0.pdf
+│       ├── Mentoring_Log_Signed_v1.0.pdf
+│       └── Quarterly_Performance_Review_Example_v1.0.pdf
+│
+└── .crypto/                           # Optional cosign signatures (not required for GRC managers)
+    ├── cosign.pub
+    └── artifacts/                     # Mirrored .sig files for technical verifiers
+
+```
