@@ -1,5 +1,5 @@
 # grc-master-portfolio
-# Welcome to SECREK's ! 👋
+# Welcome to SECREK's GRC Portfolio! 👋
 ### Governance, Risk, and Compliance (GRC) / Cybersecurity Analyst
 Who: CISSP-certified CyberSecurity professional with 15+ years in information technology (includes 7 years of hands-on vulnerability management after a background in database administration and middleware engineering).
 What: Seeking a mid-level GRC role where I can leverage engineering depth and recent upskilling to drive program maturity and client confidence.
