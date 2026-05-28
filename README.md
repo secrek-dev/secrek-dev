@@ -7,7 +7,7 @@ How: Designed and built this verifiable publicly accessible GRC portfolio demons
 NIST SP 800-137 continuous monitoring, and core management competencies.
 
 
-- 🔭 **Current Focus**: Implementing NIST CSF 2.0 frameworks and automating risk assessments.
+- 🔭 **Who**: CISSP‑certified vulnerability engineer who has systematically upskilled into GRC leadership by completing a 150‑day portfolio that includes a complete ATO package (SSP, SAR, POA&M, FIPS 199, PIA), hands‑on cloud security (AWS/Azure, FedRAMP Moderate), a NIST SP 800‑137 continuous monitoring dashboard, and management deliverables such as a budget request, vendor SLA, and project charter. My portfolio is publicly available and each artifact contains human‑readable approval signatures to demonstrate accountability. I am looking for a mid‑level GRC role where my technical depth and proven ability to produce compliance documentation can immediately add value.
 - 💼 **Looking For**: GRC Analyst, Compliance Specialist, or Information Security Auditor roles.
 - ⚡ **Fun Fact**: I enjoy translating dense legal regulatory text into actionable security controls.
 
