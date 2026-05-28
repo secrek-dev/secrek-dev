@@ -19,7 +19,7 @@ I am a CISSP‑certified vulnerability management engineer who has systematicall
 * **Policy & Audit**: Policy writing, Exception memos, Evidence packages, Test plans, Findings documentation
 * **Vulnerability Management**: Scanning (Nessus Tenable, Rapid7 InsightVM & Qualys), CVE Risk Scoring & Known Exploits tracking (CVSS, CVE, CWE, CISA’s KEV, VulnCheck’s KEV, NVD/VulnDB), Remediation SLAs, Asset Discovery & Management (CMDB), Patch Management, Exception Handling, Vulnerability Management policy, Metrics Preparation (PostgreSQL, SQL, Splunk SPL, MS Excel (Pivot tables, VLOOKUP), Python, CLI (Bash, API), NSLOOKUP,
 CURL, AWK, SED), Security Architecture & Network basics
-* **Management & Leadership**: Budget planning, Vendor Risk, Project Charter/WBS/Gantt, Stakeholder Comms,Mentoring
+* **Management & Leadership**: Budget planning, Vendor Risk, Project Charter/WBS/Gantt, Stakeholder Comms, Mentoring
 * **Tools & Software**: Jira, ServiceNow
 * **Communication**: SOC 2, ISO 27001 (Control A.9), SOX User Access Reviews
 
