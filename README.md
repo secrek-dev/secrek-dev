@@ -49,7 +49,8 @@ I am a CISSP‑certified vulnerability management engineer who has systematicall
 
 * **CompTIA Security+** | *Earned: [Month, Year]*
 * **ISC² CISSP - (Certified Information Systems Security Professional)** | *[See Active Credential](https://www.credly.com/badges/1902299b-c3ef-4666-bd5a-ba5810ba8461/public_url)*
-* **B.S. in Information Science & Systems ** 
+* **B.S in Information Science & Systemsy** 
+
 
 ---
 
