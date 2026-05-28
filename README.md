@@ -2,13 +2,13 @@
 # Welcome to SECREK's GRC Portfolio! 👋
 ### Governance, Risk, and Compliance (GRC) / Cybersecurity Analyst
 I am a CISSP‑certified vulnerability engineer who has systematically upskilled into GRC leadership by designing and building this portfolio that includes a complete ATO package (SSP, SAR, POA&M, FIPS 199, PIA), hands‑on cloud security (AWS/Azure, FedRAMP Moderate) deliverables, a NIST SP 800‑137 continuous monitoring dashboard, and management deliverables such as a budget request, vendor SLA, and project charter. 
-My portfolio is publicly available and each artifact contains human‑readable approval signatures to demonstrate accountability.
 
 
 
-- 🔭 **Who**:  I am looking for a mid‑level GRC role where my technical depth and proven ability to produce compliance documentation can immediately add value.
-- 💼 **Looking For**: GRC Analyst, Compliance Specialist, or Information Security Auditor roles.
-- ⚡ **Fun Fact**: I enjoy translating dense legal regulatory text into actionable security controls.
+
+- 🔭 **Looking For**: GRC Analyst, Compliance Specialist, or Information Security Auditor roles where my technical depth and proven ability to produce compliance documentation can immediately add value.
+- 💼 **Capabilities**: I bridge the gap between technical vulnerabilities and compliance frameworks (SOC 2, ISO 27001, NIST CSF, HIPAA, FedRAMP). 
+- ⚡ **Note**: My portfolio is publicly available and each artifact contains human‑readable approval signatures to demonstrate accountability.
 
 ---
 
