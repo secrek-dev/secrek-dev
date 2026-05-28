@@ -1,1 +1,63 @@
 # grc-master-portfolio
+# Hi there, I'm [Your Name] 👋
+### Governance, Risk, and Compliance (GRC) / Cybersecurity Analyst
+Who: CISSP-certified CyberSecurity professional with 15+ years in information technology (includes 7 years of hands-on vulnerability management after a background in database administration and middleware engineering).
+What: Seeking a mid-level GRC role where I can leverage engineering depth and recent upskilling to drive program maturity and client confidence.
+How: Designed and built this verifiable publicly accessible GRC portfolio demonstrating complete ATO package delivery, hands-on multi-cloud security, IaaS/PaaS/SaaS responsibility mapping, FedRAMP Moderate readiness,
+NIST SP 800-137 continuous monitoring, and core management competencies.
+
+
+- 🔭 **Current Focus**: Implementing NIST CSF 2.0 frameworks and automating risk assessments.
+- 💼 **Looking For**: GRC Analyst, Compliance Specialist, or Information Security Auditor roles.
+- ⚡ **Fun Fact**: I enjoy translating dense legal regulatory text into actionable security controls.
+
+---
+
+## 🛠️ Frameworks & Technical Skills
+
+* **Compliance Frameworks**: NIST CSF, ISO/IEC 27001, SOC 2 (Type I & II), HIPAA, GDPR, PCI-DSS
+* **Risk Management**: Risk Identification, Qualitative & Quantitative Analysis, Risk Treatment Plans
+* **Tools & Software**: Jira, ServiceNow GRC, AuditBoard, Excel (Advanced VLOOKUP/Pivot Tables), Microsoft Purview
+* **Core Competencies**: Policy Writing, Vendor Risk Management (VRM), Internal Auditing, Security Awareness Training
+
+---
+
+## 📁 Featured GRC Portfolio Projects
+
+### 1. Enterprise Risk Assessment & Risk Register
+* **Overview**: Developed a comprehensive risk register for a hypothetical cloud-hosted e-commerce business to identify, analyze, and mitigate operational risks.
+* **Framework Used**: NIST SP 800-30
+* **Deliverables**: 
+  * [Risk Register Spreadsheet](./projects/risk-register.xlsx) featuring a 5x5 risk matrix scoring likelihood and impact.
+  * [Risk Treatment Plan](./projects/risk-treatment-plan.md) with specific technical and administrative control recommendations.
+
+### 2. ISO 27001 Information Security Policy Suite
+* **Overview**: Drafted an organization-wide Access Control Policy and Incident Response Policy aligned with ISO 27001:2022 Annex A controls.
+* **Framework Used**: ISO/IEC 27001:2022
+* **Deliverables**:
+  * [Access Control Policy](./projects/policies/access-control.md) detailing MFA mandates and RBAC models.
+  * [Incident Response Policy](./projects/policies/incident-response.md) detailing roles, containment steps, and reporting timelines.
+
+### 3. Third-Party Vendor Risk Management (VRM) Program
+* **Overview**: Built a standardized vendor vetting process including a custom security questionnaire for critical software-as-a-service (SaaS) vendors.
+* **Framework Used**: SIG (Standardized Information Gathering) Light / SOC 2
+* **Deliverables**:
+  * [Vendor Assessment Questionnaire](./projects/vrm/vendor-questionnaire.md)
+  * [Vendor Risk Report Sample](./projects/vrm/sample-vendor-report.pdf) assessing a third-party cloud vendor's posture.
+
+---
+
+## 🏅 Certifications & Education
+
+* **CompTIA Security+** | *Earned: [Month, Year]*
+* **ISACA Certified Information Systems Auditor (CISA)** | *Candidate / Expected: [Year]*
+* **B.S. in Cybersecurity / Information Technology** | *[Your University], [Year]*
+
+---
+
+## 🤝 Connect With Me
+
+* **LinkedIn**: [://linkedin.com](https://://linkedin.com)
+* **Email**: your.email@example.com
+* **Medium/Blog**: [yourblog.com (If you write about GRC)](https://yourblog.com)
+
