@@ -48,14 +48,9 @@ I am a CISSP‑certified vulnerability management engineer who has systematicall
 ## 🏅 Certifications & Education
 
 * **CompTIA Security+** | *Earned: [Month, Year]*
-* **ISACA Certified Information Systems Auditor (CISA)** | *Candidate / Expected: [Year]*
-* **B.S. in Cybersecurity / Information Technology** | *[Your University], [Year]*
+* **ISC² CISSP - (Certified Information Systems Security Professional)** | *Active Credential* [Visit Google](https://google.com)
+* **B.S. in Information Science & Systems ** 
 
 ---
 
-## 🤝 Connect With Me
-
-* **LinkedIn**: [://linkedin.com](https://://linkedin.com)
-* **Email**: your.email@example.com
-* **Medium/Blog**: [yourblog.com (If you write about GRC)](https://yourblog.com)
 
